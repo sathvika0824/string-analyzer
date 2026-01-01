@@ -78,4 +78,4 @@ This project helped me understand how to:
 * Add more string-related features
 * Improve user interaction
 
-> *"Small steps done consistently lead to big growth."*
+"Small steps done consistently lead to big growth"
